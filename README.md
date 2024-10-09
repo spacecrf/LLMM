@@ -11,6 +11,6 @@ Ejerecicio | Drescripción
 ## TEMA 1 - HTML
 Ejerecicio | Drescripción
 -----------|--------------
-[Ejercicio1](/tema%201/Ej1.html)| Ejercico nº 1 usando varias tecnicas. 
-[Ejercicio2](/tema%201/prueba-2.xml)| documento que incliye informacion de la biblioteca
+[Ejercicio1](/tema%201/Ej1.html)| Ejercicio nº 1 usando varias tecnicas. 
+[Ejercicio2](/tema%201/Ej2.html)| Ejercicio nº 2 cabezeras y parrafos.
 [Ejercicio3](/tema%201/prueba-3.html)|  prueba de SVG.
