@@ -18,6 +18,4 @@ Ejerecicio | Drescripción
 [Ejercicio5](/tema%201/Ej5.html)| Ejercicio nº 5 uso de estilos.
 [Ejercicio6](/tema%201/Ej6.html)| Ejercicio nº 5 uso de estilos.
 [Ejercicio7](/tema%201/Ej7.html)| Ejercicio nº 5 uso de estilos.
-[Ejercicio8](/tema%201/Ej8.html)| cambios de pagina.
-
-
+[Ejercicio8](/tema%201/ej8)| cambios de pagina.
