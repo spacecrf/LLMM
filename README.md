@@ -16,6 +16,6 @@ Ejerecicio | Drescripción
 [Ejercicio3](/tema%201/Ej3.html)| Ejercicio nº 3 strong.
 [Ejercicio4](/tema%201/Ej4.html)| Ejercicio nº 4 mi primera web.
 [Ejercicio5](/tema%201/Ej5.html)| Ejercicio nº 5 uso de estilos.
-[Ejercicio6](/tema%201/Ej6.html)| Ejercicio nº 5 uso de estilos.
-[Ejercicio7](/tema%201/Ej7.html)| Ejercicio nº 5 uso de estilos.
+[Ejercicio6](/tema%201/Ej6.html)| Ejercicio nº 6 .
+[Ejercicio7](/tema%201/Ej7.html)| Ejercicio nº 7 .
 [Ejercicio8](/tema%201/ej8)| cambios de pagina.
