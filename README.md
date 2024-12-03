@@ -27,18 +27,18 @@ Ejerecicio | Drescripción
 [Ejercicio14](/tema%201/Ej14.html)| Ejercicio nº 7 .
 [Ejercicio15](/tema%201/Ej15.html)| Ejercicio nº 7 .
 [Ejercicio16](/tema%201/Ej16.html)| Ejercicio nº 7 .
-[Ejercicio17](/tema%201/Ej17.html)| Ejercicio nº 7 .
-[Ejercicio18](/tema%201/Ej18.html)| Ejercicio nº 7 .
-[Ejercicio19](/tema%201/Ej19.html)| Ejercicio nº 7 .
-[Ejercicio20](/tema%201/Ej20.html)| Ejercicio nº 7 .
-[Ejercicio21](/tema%201/Ej21.html)| Ejercicio nº 7 .
-[Ejercicio22](/tema%201/Ej22.html)| Ejercicio nº 7 .
-[Ejercicio23](/tema%201/Ej23.html)| Ejercicio nº 7 .
+[Ejercicio17](/tema%201/Ej17)| Ejercicio nº 7 .
+[Ejercicio18](/tema%201/Ej18)| Ejercicio nº 7 .
+[Ejercicio19](/tema%201/Ej19)| Ejercicio nº 7 .
+[Ejercicio20](/tema%201/Ej20)| Ejercicio nº 7 .
+[Ejercicio21](/tema%201/Ej21)| Ejercicio nº 7 .
+[Ejercicio22](/tema%201/Ej22)| Ejercicio nº 7 .
+[Ejercicio23](/tema%201/Ej23)| Ejercicio nº 7 .
 [Ejercicio24](/tema%201/Ej24.html)| Ejercicio nº 7 .
 [Ejercicio25](/tema%201/Ej25.html)| Ejercicio nº 7 .
-[Ejercicio26](/tema%201/Ej26.html)| Ejercicio nº 7 .
-[Ejercicio27](/tema%201/Ej27.html)| Ejercicio nº 7 .
-[Ejercicio28](/tema%201/Ej28.html)| Ejercicio nº 7 .
-[Ejercicio29](/tema%201/Ej29.html)| Ejercicio nº 7 .
+[Ejercicio26](/tema%201/Ej26)| Ejercicio nº 7 .
+[Ejercicio27](/tema%201/Ej27)| Ejercicio nº 7 .
+[Ejercicio28](/tema%201/Ej28)| Ejercicio nº 7 .
+[Ejercicio29](/tema%201/Ej29)| Ejercicio nº 7 .
 
 
