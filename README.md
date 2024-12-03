@@ -19,8 +19,8 @@ Ejerecicio | Drescripción
 [Ejercicio6](/tema%201/Ej6.html)| Ejercicio nº 6 .
 [Ejercicio7](/tema%201/Ej7.html)| Ejercicio nº 7 .
 [Ejercicio8](/tema%201/ej8)| cambios de pagina.
-[Ejercicio9](/tema%201/Ej9.html)| Ejercicio nº 7 .
-[Ejercicio10](/tema%201/Ej10.html)| Ejercicio nº 7 .
+[Ejercicio9](/tema%201/Ej9)| Ejercicio nº 7 .
+[Ejercicio10](/tema%201/ej10.html)| Ejercicio nº 7 .
 [Ejercicio11](/tema%201/Ej11.html)| Ejercicio nº 7 .
 [Ejercicio12](/tema%201/Ej12.html)| Ejercicio nº 7 .
 [Ejercicio13](/tema%201/Ej13.html)| Ejercicio nº 7 .
