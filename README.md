@@ -19,27 +19,27 @@ Ejerecicio | Drescripción
 [Ejercicio6](/tema%201/Ej6.html)| Ejercicio nº 6 .
 [Ejercicio7](/tema%201/Ej7.html)| Ejercicio nº 7 .
 [Ejercicio8](/tema%201/ej8)| cambios de pagina.
-[Ejercicio9](/tema%201/Ej9)| Ejercicio nº 8 .
-[Ejercicio10](/tema%201/ej10.html)| Ejercicio nº 9 .
-[Ejercicio11](/tema%201/Ej11.html)| Ejercicio nº 10 .
-[Ejercicio12](/tema%201/Ej12.html)| Ejercicio nº 11 .
-[Ejercicio13](/tema%201/Ej13.html)| Ejercicio nº 12 .
-[Ejercicio14](/tema%201/Ej14.html)| Ejercicio nº 13 .
-[Ejercicio15](/tema%201/Ej15.html)| Ejercicio nº 14 .
-[Ejercicio16](/tema%201/Ej16.html)| Ejercicio nº 15 .
-[Ejercicio17](/tema%201/Ej17)| Ejercicio nº 16 .
-[Ejercicio18](/tema%201/Ej18)| Ejercicio nº 17 .
-[Ejercicio19](/tema%201/Ej19)| Ejercicio nº 18 .
-[Ejercicio20](/tema%201/Ej20)| Ejercicio nº 19 .
-[Ejercicio21](/tema%201/Ej21)| Ejercicio nº 20.
-[Ejercicio22](/tema%201/Ej22)| Ejercicio nº 21.
-[Ejercicio23](/tema%201/Ej23)| Ejercicio nº 22.
-[Ejercicio24](/tema%201/Ej24.html)| Ejercicio nº 23 .
-[Ejercicio25](/tema%201/Ej25.html)| Ejercicio nº 24. 
-[Ejercicio26](/tema%201/Ej26)| Ejercicio nº 25 .
-[Ejercicio27](/tema%201/Ej27)| Ejercicio nº 26.
-[Ejercicio28](/tema%201/Ej28)| Ejercicio nº 27.
-[Ejercicio29](/tema%201/Ej29)| Ejercicio nº 28.
+[Ejercicio9](/tema%201/Ej9)| Ejercicio nº 9 .
+[Ejercicio10](/tema%201/ej10.html)| Ejercicio nº 10 .
+[Ejercicio11](/tema%201/Ej11.html)| Ejercicio nº 11 .
+[Ejercicio12](/tema%201/Ej12.html)| Ejercicio nº 12 .
+[Ejercicio13](/tema%201/Ej13.html)| Ejercicio nº 13 .
+[Ejercicio14](/tema%201/Ej14.html)| Ejercicio nº 14 .
+[Ejercicio15](/tema%201/Ej15.html)| Ejercicio nº 15 .
+[Ejercicio16](/tema%201/Ej16.html)| Ejercicio nº 16 .
+[Ejercicio17](/tema%201/Ej17)| Ejercicio nº 17 .
+[Ejercicio18](/tema%201/Ej18)| Ejercicio nº 18 .
+[Ejercicio19](/tema%201/Ej19)| Ejercicio nº 19 .
+[Ejercicio20](/tema%201/Ej20)| Ejercicio nº 20 .
+[Ejercicio21](/tema%201/Ej21)| Ejercicio nº 21.
+[Ejercicio22](/tema%201/Ej22)| Ejercicio nº 22.
+[Ejercicio23](/tema%201/Ej23)| Ejercicio nº 23.
+[Ejercicio24](/tema%201/Ej24.html)| Ejercicio nº 24 .
+[Ejercicio25](/tema%201/Ej25.html)| Ejercicio nº 25. 
+[Ejercicio26](/tema%201/Ej26)| Ejercicio nº 26 .
+[Ejercicio27](/tema%201/Ej27)| Ejercicio nº 27.
+[Ejercicio28](/tema%201/Ej28)| Ejercicio nº 28.
+[Ejercicio29](/tema%201/Ej29)| Ejercicio nº 29.
 [Web final](https://spacecrf.github.io/MGR.github.io/)| web.
 
 
