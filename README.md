@@ -39,10 +39,6 @@ Ejercicio | Descripción
 [Ejercicio23](/tema%201/Ej23) | Ejercicio avanzado combinando múltiples técnicas de HTML.
 [Ejercicio24](/tema%201/Ej24.html) | Trabajo con formularios y elementos complejos.
 [Ejercicio25](/tema%201/Ej25.html) | Exploración de listas anidadas y tablas complejas.
-[Ejercicio26](/tema%201/Ej26) | Creación de un proyecto con navegación y multimedia.
-[Ejercicio27](/tema%201/Ej27) | Trabajo con estilos avanzados y temas.
-[Ejercicio28](/tema%201/Ej28) | Ejercicio final con diseño interactivo.
-[Ejercicio29](/tema%201/Ej29) | Proyecto integrador con múltiples técnicas aprendidas.
 
 ### Proyecto Final
 [Web final](https://spacecrf.github.io/MGR.github.io/) | Proyecto completo integrando todos los conocimientos adquiridos.
