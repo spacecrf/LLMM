@@ -43,6 +43,8 @@ Ejercicio | Descripción
 ### Proyecto Final
 [Web final](https://spacecrf.github.io/MGR.github.io/) | Proyecto completo integrando todos los conocimientos adquiridos.
 
+### 📂 TEMA 2 - CSS
+
 ## 📊 Tecnologías Utilizadas
 - **HTML5**: Lenguaje base para la estructura del contenido.
 - **CSS3**: Estilización y diseño responsivo.
