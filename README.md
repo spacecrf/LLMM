@@ -56,6 +56,7 @@ Ejercicio | ‎
 - **CSS3**: Estilización y diseño responsivo.
 - **SVG**: Creación de gráficos escalables.
 - **XML**: Estructuración de datos jerárquicos.
+- **JS**: Utilidad y funcionamiento.
 
 🌟 **Enlace al Proyecto Final FilmFlow (Bootstrap)**: [FilmFlow Web](https://spacecrf.github.io/FilmFlow/).
 🌟 **Enlace al Repositorio de Bootstrap**: [Repositorio](https://github.com/spacecrf/FilmFlow).
