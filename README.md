@@ -44,7 +44,7 @@ Ejercicio | Descripción
 [Web final](https://spacecrf.github.io/MGR.github.io/) | Proyecto completo integrando todos los conocimientos adquiridos.
 
 ### 📂 TEMA 3 - JS y DOM
-Ejercicio 
+Ejercicio | ‎ 
 -----------|--------------
 [Ejercicio1](/tema2/Ejercico1) |
 [Ejercicio2](/tema2/Ejercicio%202) |
