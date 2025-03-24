@@ -43,7 +43,7 @@ Ejercicio | Descripción
 ### Proyecto Final
 [Web final](https://spacecrf.github.io/MGR.github.io/) | Proyecto completo integrando todos los conocimientos adquiridos.
 
-### 📂 TEMA 2 - CSS
+### 📂 TEMA 3 - JS y DOM
 
 ## 📊 Tecnologías Utilizadas
 - **HTML5**: Lenguaje base para la estructura del contenido.
