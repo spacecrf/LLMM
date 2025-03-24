@@ -45,10 +45,10 @@ Ejercicio | Descripción
 
 ### 📂 TEMA 3 - JS y DOM
 
-[Ejercicio1](/tema%201/Ej1.html) | Uso de varias técnicas básicas de HTML.
-[Ejercicio2](/tema%201/Ej2.html) | Uso de encabezados `<h1>` a `<h6>` y párrafos `<p>`.
-[Ejercicio3](/tema%201/Ej3.html) | Ejercicio práctico con la etiqueta `<strong>`.
-[Ejercicio4](/tema%201/Ej4.html) | Creación de una primera página web.
+[Ejercicio1](/tema2/Ejercico1) |
+[Ejercicio2](/tema2/Ejercicio%202) |
+[Ejercicio3](/tema2/Ej3.html) |
+[Ejercicio4](/tema2/Ej4.html) | 
 
 ## 📊 Tecnologías Utilizadas
 - **HTML5**: Lenguaje base para la estructura del contenido.
