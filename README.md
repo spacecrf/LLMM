@@ -43,6 +43,11 @@ Ejercicio | Descripción
 ### Proyecto Final
 [Web final](https://spacecrf.github.io/MGR.github.io/) | Proyecto completo integrando todos los conocimientos adquiridos.
 
+### 📂 TEMA 2 - CSS
+Ejercicio | Descripción
+
+
+
 ### 📂 TEMA 3 - JS y DOM
 Ejercicio | ‎ 
 -----------|--------------
