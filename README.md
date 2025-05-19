@@ -92,8 +92,8 @@ Ejercicio | Ejercicios Avanzados de JavaScript
 
 
 
-🌟 **Enlace al Proyecto Final FilmFlow (Bootstrap)**: [Quiz musical](https://spacecrf.github.io/Quiz/).
-🌟 **Enlace al Repositorio de Bootstrap**: [Repositorio](https://github.com/spacecrf/Quiz).
+🌟 **Enlace al Proyecto Final Quiz musical (HTML, js, xml)**: [Quiz musical](https://spacecrf.github.io/Quiz/).
+🌟 **Enlace al Repositorio de Quiz musical (HTML, js, xml)**: [Repositorio](https://github.com/spacecrf/Quiz).
 
 - **CSS3**: Estilización y diseño responsivo.
 - **SVG**: Creación de gráficos escalables.
