@@ -60,12 +60,30 @@ Ejercicio | ‎
 🌟 **Enlace al Repositorio de Bootstrap**: [Repositorio](https://github.com/spacecrf/FilmFlow).
 
 ### 📂 TEMA 3 - JS y DOM
-Ejercicio | ‎ 
+Ejercicio | ‎Ejercicios Básicos de JavaScript
 -----------|--------------
 [Ejercicio1](/tema2/Ejercico1) |
 [Ejercicio2](/tema2/Ejercicio%202) |
 [Ejercicio3](/tema2/Ej3.html) |
 [Ejercicio4](/tema2/Ej4.html) | 
+[Ejercicio6](/tema2/Ej6.html) | 
+[Ejercicio7](/tema2/Ej7.html) | 
+[Ejercicio8](/tema2/Ej8.html) | 
+[Ejercicio9](/tema2/Ej9.html) | 
+[Ejercicio10](/tema2/Ej10.html) | 
+[Ejercicio11](/tema2/Ej11.html) | 
+[Ejercicio12](/tema2/Ej12.html) | 
+
+### 📂 TEMA 3 - JS y DOM
+Ejercicio | Ejercicios de Manipulación del DOM
+-----------|--------------
+[Ejercicio1](/tema2/EjD2.html) |
+[Ejercicio2](/tema2/Ejercicio%202) |
+[Ejercicio3](/tema2/Ej3.html) |
+[Ejercicio4](/tema2/Ej4.html) | 
+
+
+
 
 ## 📊 Tecnologías Utilizadas
 - **HTML5**: Lenguaje base para la estructura del contenido.
