@@ -92,7 +92,7 @@ Ejercicio | Ejercicios Avanzados de JavaScript
 
 
 
-🌟 **Enlace al Proyecto Final FilmFlow (Bootstrap)**: [FilmFlow Web](https://spacecrf.github.io/Quiz/).
+🌟 **Enlace al Proyecto Final FilmFlow (Bootstrap)**: [Quiz musical](https://spacecrf.github.io/Quiz/).
 🌟 **Enlace al Repositorio de Bootstrap**: [Repositorio](https://github.com/spacecrf/Quiz).
 
 - **CSS3**: Estilización y diseño responsivo.
