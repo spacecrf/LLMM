@@ -77,16 +77,21 @@ Ejercicio | ‎Ejercicios Básicos de JavaScript
 ### 📂 TEMA 3 - JS y DOM
 Ejercicio | Ejercicios de Manipulación del DOM
 -----------|--------------
-[Ejercicio1](/tema2/EjD2.html) |
-[Ejercicio2](/tema2/Ejercicio%202) |
-[Ejercicio3](/tema2/Ej3.html) |
-[Ejercicio4](/tema2/Ej4.html) | 
+[Ejercicio1](/tema2/Ej1D.html) |
+[Ejercicio2](/tema2/Ej2D.html) |
+[Ejercicio3](/tema2/Ej3D.html) |
+[Ejercicio4](/tema2/Ej4D.html) |
+
+### 📂 TEMA 3 - JS y DOM
+Ejercicio | Ejercicios Avanzados de JavaScript
+-----------|--------------
+[Ejercicio1](/tema2/Ej1JS.html) |
+[Ejercicio2](/tema2/Ej2JS.html) |
+[Ejercicio3](/tema2/Ej3JS.html) |
+[Ejercicio4](/tema2/Ej4JS.html) |
 
 
 
-
-## 📊 Tecnologías Utilizadas
-- **HTML5**: Lenguaje base para la estructura del contenido.
 - **CSS3**: Estilización y diseño responsivo.
 - **SVG**: Creación de gráficos escalables.
 - **XML**: Estructuración de datos jerárquicos.
