@@ -52,6 +52,8 @@ Ejercicio | ‎
 [Ejercicio4](/tema3/Ej4.html) | 
 [Ejercicio5](/tema3/Ej5.html) |
 [Ejercicio6](/tema3/Ej6.html) |
+[Ejercico10](/tema3/Ej10.html) |
+[Ejercico11](/tema3/Ej11) |
 [Ejercicio12](/tema3/Ej12.html) |
 
 
