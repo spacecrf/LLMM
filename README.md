@@ -56,7 +56,8 @@ Ejercicio | ‎
 [Ejercico11](/tema3/Ej11) |
 [Ejercicio12](/tema3/Ej12.html) |
 
-
+🌟 **Enlace al Proyecto Final FilmFlow (Bootstrap)**: [FilmFlow Web](https://spacecrf.github.io/FilmFlow/).
+🌟 **Enlace al Repositorio de Bootstrap**: [Repositorio](https://github.com/spacecrf/FilmFlow).
 
 ### 📂 TEMA 3 - JS y DOM
 Ejercicio | ‎ 
@@ -73,8 +74,7 @@ Ejercicio | ‎
 - **XML**: Estructuración de datos jerárquicos.
 - **JS**: Utilidad y funcionamiento.
 
-🌟 **Enlace al Proyecto Final FilmFlow (Bootstrap)**: [FilmFlow Web](https://spacecrf.github.io/FilmFlow/).
-🌟 **Enlace al Repositorio de Bootstrap**: [Repositorio](https://github.com/spacecrf/FilmFlow).
+
 
 ¡Explora cómo las películas y series se recomiendan de manera personalizada!
 
