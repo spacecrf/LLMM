@@ -91,6 +91,37 @@ Ejercicio | Ejercicios Avanzados de JavaScript
 [Ejercicio4](/tema2/Ej4JS.html) |
 
 
+### 📂 TEMA 4 - XML
+Ejercicio | AJAX
+-----------|--------------
+[Ejercicio1](/tema4/AJAX/ej1.html) |
+[Ejercicio2](/tema4/AJAX/Ej2.html) |
+[Ejercicio3](/tema4/AJAX/Ej3.html) |
+[Ejercicio4](/tema4/AJAX/Ej5.html) |
+
+### 📂 TEMA 4 - XML
+Ejercicio | XML-DOM
+-----------|--------------
+[Ejercicio1](/tema4/XML-DOM/Ej1D.html) |
+[Ejercicio2](/tema4/XML-DOM/Ej2D.html) |
+[Ejercicio3](/tema4/XML-DOM/Ej3D.html) |
+
+### 📂 TEMA 4 - XML
+Ejercicio | XML-Ej
+-----------|--------------
+[Ejercicio1](/tema4/XML-Ej/XM1.xml) |
+[Ejercicio2](/tema4/XML-Ej/XM2.xml) |
+[Ejercicio3](/tema4/XML-Ej/XM3.xml) |
+[Ejercicio4](/tema4/XML-Ej/XM4.xml) |
+[Ejercicio5](/tema4/XML-Ej/XM5.xml) |
+[Ejercicio6](/tema4/XML-Ej/XM6.xml) |
+[Ejercicio7](/tema4/XML-Ej/XM7.xml) |
+[Ejercicio8](/tema4/XML-Ej/XM8.xml) |
+[Ejercicio9](/tema4/XML-Ej/XM9.xml) |
+[Ejercicio10](/tema4/XML-Ej/XM10.xml) |
+
+
+
 
 🌟 **Enlace al Proyecto Final Quiz musical (HTML, js, xml)**: [Quiz musical](https://spacecrf.github.io/Quiz/).
 🌟 **Enlace al Repositorio de Quiz musical (HTML, js, xml)**: [Repositorio](https://github.com/spacecrf/Quiz).
